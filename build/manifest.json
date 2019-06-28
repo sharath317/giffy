@@ -1,0 +1,16 @@
+{
+  "short_name": "Anobis",
+  "name": "Anobis App",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#ffa153",
+  "background_color": "#ffa153",
+  "orientation": "portrait"
+}
